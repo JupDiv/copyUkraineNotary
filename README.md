@@ -45,8 +45,6 @@ Open http://localhost:3000 in your browser to view the application.
 
 ### Contributing
 
-```
 Contributions are welcome! Please feel free to submit a Pull Request.
-```
 
 ### Author: Hlib Laskin aka JupDiv
