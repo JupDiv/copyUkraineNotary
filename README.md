@@ -22,15 +22,24 @@ git clone https://github.com/yourusername/yourproject.git
 ```
 
 Navigate into the project directory:
-cd yourproject
+
+```
+cd notarius
+```
 
 Install the dependencies:
+
+```
 npm install
+```
 
 Running the Application
 
 To start the development server:
+
+```
 npm run dev
+```
 
 Open http://localhost:3000 in your browser to view the application.
 Contributing
