@@ -20,7 +20,7 @@ Before you start, ensure that you have [Node.js](https://nodejs.org/) and [npm](
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/JupDiv/copyUkraineNotary
 ```
 
 Navigate into the project directory:
