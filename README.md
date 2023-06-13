@@ -15,7 +15,7 @@ This is a project built with [Next.js](https://nextjs.org/), [React](https://rea
 
 Before you start, ensure that you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed on your machine.
 
-1. Clone this repository:
+Clone this repository:
 
 ```bash
 git clone https://github.com/yourusername/yourproject.git
@@ -33,7 +33,7 @@ Install the dependencies:
 npm install
 ```
 
-Running the Application
+## Running the Application
 
 To start the development server:
 
@@ -45,6 +45,5 @@ Open http://localhost:3000 in your browser to view the application.
 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-License
 
-This project is open source and available under the MIT License.
+### Author: Hlib Laskin aka JupDiv
