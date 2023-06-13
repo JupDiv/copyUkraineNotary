@@ -1,0 +1,17 @@
+body {
+  position: relative;
+  background-color: rgba(221, 216, 216, 0.707);
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 12px;
+  }
+}
+.header {
+  text-align: center;
+}

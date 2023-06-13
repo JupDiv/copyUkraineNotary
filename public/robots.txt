@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /private/
+Disallow: /internal/
+
+Sitemap: https://ukraine-public-notary.vercel.app/sitemap.xml
